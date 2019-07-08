@@ -1,2 +1,3 @@
 Bob.txt
 Hi! I'am Bob. I'm new here.
+Add a new line to Bob.txt
